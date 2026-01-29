@@ -32,14 +32,14 @@ Coloque os dados em uma pasta `data/`:
 
 ```
 data/
-  dados_treino_ner_500.json
+  dados_treino_ner_250.json
   amostra_com_labels_1 - Página1.csv
 ```
 
 Saída do treino (criada automaticamente):
 
 ```
-trained_ner_model_500/
+trained_ner_model/
   config.json
   model.safetensors
   tokenizer.json
@@ -72,7 +72,7 @@ python -m venv .venv
 # source .venv/bin/activate
 
 pip install --upgrade pip
-pip install transformers datasets seqeval accelerate scikit-learn pandas numpy torch
+pip install -r requirements.txt
 ```
 
 > Se você já tem PyTorch instalado (por exemplo, com CUDA), mantenha a versão compatível com o seu ambiente.
@@ -106,7 +106,7 @@ jupyter notebook
 
 - `JSON_NAME = "dados_treino_ner_250.json"`
 - `MODEL_NAME = "neuralmind/bert-base-portuguese-cased"`
-- `SAVE_DIR = "./trained_ner_model_250"` (ou outro nome)
+- `SAVE_DIR = "./trained_ner_model"` (ou outro nome)
 - `MAX_LENGTH = 512`
 - `STRIDE = 256` (bom padrão)
 
