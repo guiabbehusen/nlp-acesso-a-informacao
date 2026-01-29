@@ -1,0 +1,2560 @@
+[
+  {
+    "text": "oi na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "eai cobraram r$ 500,00 e o serviço ficou pela metade pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "eai a placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59 tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "eai quero registrar reclamação do falta de iluminação na região e só piora meu nome eh Mateus Monteiro e-mail mateus.monteiro325@example.net na moral valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mateus Monteiro"
+      },
+      {
+        "label": "EMAIL",
+        "value": "mateus.monteiro325@example.net"
+      }
+    ]
+  },
+  {
+    "text": "eai cobraram r$ 500,00 e o serviço ficou pela metade",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO FUI NA UNIDADE ÀS 14H E A SENHA ERA 137 MAS CHAMARAM SÓ ATÉ A 98 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM BURACO NA VIA NOME CAMILA SANTOS CPF 746.373.610-59 PELO AMOR",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "CAMILA SANTOS"
+      },
+      {
+        "label": "CPF",
+        "value": "746.373.610-59"
+      }
+    ]
+  },
+  {
+    "text": "olá quero registrar uma solicitação do buraco enorme na minha quadra e ninguém resolve sou Patrícia Oliveira meu CPF é 574.363.553-60 whats 937542222 sem condições obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Patrícia Oliveira"
+      },
+      {
+        "label": "CPF",
+        "value": "574.363.553-60"
+      },
+      {
+        "label": "PHONE",
+        "value": "937542222"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA TA DANDO PROBLEMA COM BURACO NA VIA NOME MÔNICA CARDOSO ENDERECO SQN 109 BLOCO D APTO 301 TEL 61969156666 EMAIL monica.cardoso@example.org AGORA",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "MÔNICA CARDOSO"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 109 BLOCO D APTO 301"
+      },
+      {
+        "label": "PHONE",
+        "value": "61969156666"
+      },
+      {
+        "label": "EMAIL",
+        "value": "monica.cardoso@example.org"
+      }
+    ]
+  },
+  {
+    "text": "olá quero fazer uma denúncia do asfalto todo quebrado na região e só piora me chamo Tiago Rezende fica em SQS 206 Bloco C Apto 202 na moral obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Tiago Rezende"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 206 Bloco C Apto 202"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero fazer reclamação do merenda ruim na região e só piora me chamo Érica Campos moro em QNL 29 Conjunto E Casa 05 por favor obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Érica Campos"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNL 29 Conjunto E Casa 05"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde a placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59",
+    "entities": []
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a falta de remédio. Nome Diego Araújo . E-mail diego_araujo953@example.org . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Diego Araújo"
+      },
+      {
+        "label": "EMAIL",
+        "value": "diego_araujo953@example.org"
+      }
+    ]
+  },
+  {
+    "text": "olá quero registrar uma denúncia do linha atrasando na minha quadra e só piora meu nome eh Natália Carvalho e-mail natalia_carvalho32@example.org tô na luta aqui vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Natália Carvalho"
+      },
+      {
+        "label": "EMAIL",
+        "value": "natalia_carvalho32@example.org"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a linha atrasando. Nome Marcos Araújo . Endereço SQN 103 Bloco D Apto 403 . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Marcos Araújo"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 103 Bloco D Apto 403"
+      }
+    ]
+  },
+  {
+    "text": "olá quero fazer uma solicitação do lixo acumulado perto de casa e ninguém resolve me chamo Pedro Lima manda no pedro.lima@example.net tô na luta aqui obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Pedro Lima"
+      },
+      {
+        "label": "EMAIL",
+        "value": "pedro.lima@example.net"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero fazer reclamação do som alto de madrugada aqui na minha rua e ninguém resolve meu nome eh Lucas Melo Barbosa moro em QI 24 Conjunto E Lote 17 whats 99294-8888 na moral vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Lucas Melo Barbosa"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 24 Conjunto E Lote 17"
+      },
+      {
+        "label": "PHONE",
+        "value": "99294-8888"
+      }
+    ]
+  },
+  {
+    "text": "Requeiro atualização do status. Fui na unidade às 14h e a senha era 137 mas chamaram só até a 98.",
+    "entities": []
+  },
+  {
+    "text": "boa noite quero registrar uma denúncia do jogada de lixo em área verde aqui na minha rua e ninguém dá retorno me chamo Mateus Costa meu CPF é 37041465609 me chama no 61 93975-3333 na moral agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mateus Costa"
+      },
+      {
+        "label": "CPF",
+        "value": "37041465609"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 93975-3333"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a cachorro solto atacando. Nome Beatriz Campos Monteiro . CPF 09236871908 . Endereço SQN 405 Bloco D Apto 502 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Beatriz Campos Monteiro"
+      },
+      {
+        "label": "CPF",
+        "value": "09236871908"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 405 Bloco D Apto 502"
+      }
+    ]
+  },
+  {
+    "text": "bom dia o site dá erro 504 desde ontem e ninguém avisa nada",
+    "entities": []
+  },
+  {
+    "text": "Prezados, registro manifestação referente a motorista mal educado. Nome Diego Cavalcanti Silva . Endereço SQS 316 Bloco E Apto 301 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Diego Cavalcanti Silva"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 316 Bloco E Apto 301"
+      }
+    ]
+  },
+  {
+    "text": "eai quero registrar uma denúncia do jogada de lixo em área verde aqui no bairro e ninguém dá retorno sou Paula Souza fica em Rua 7 Lote 60 Recanto das Emas DF tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Paula Souza"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 7 Lote 60 Recanto das Emas DF"
+      }
+    ]
+  },
+  {
+    "text": "oi o site dá erro 504 desde ontem e ninguém avisa nada pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "À equipe responsável, registro manifestação referente a pista esburacada. Nome Diego Oliveira . CPF 39764762186 . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Diego Oliveira"
+      },
+      {
+        "label": "CPF",
+        "value": "39764762186"
+      }
+    ]
+  },
+  {
+    "text": "oi protocolo 2023.456 aberto em 12/05/2024 e até agora está em análise tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "bom dia o site dá erro 504 desde ontem e ninguém avisa nada pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "oi o ônibus 0.400 passou lotado três vezes seguidas",
+    "entities": []
+  },
+  {
+    "text": "eai na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a muito entulho. Nome Mônica Melo . E-mail monica.melo812@example.org . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mônica Melo"
+      },
+      {
+        "label": "EMAIL",
+        "value": "monica.melo812@example.org"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE O SITE DÁ ERRO 504 DESDE ONTEM E NINGUÉM AVISA NADA SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Prezados, registro manifestação referente a secretaria não atende. Nome Camila Rocha . Endereço Rua 5 Lote 41 Sobradinho DF . Telefone 61 981787777 . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Camila Rocha"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 5 Lote 41 Sobradinho DF"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 981787777"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA TA DANDO PROBLEMA COM PRECISO MARCAR EXAME NOME WILLIAM VIEIRA TEL 61970253333 SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "WILLIAM VIEIRA"
+      },
+      {
+        "label": "PHONE",
+        "value": "61970253333"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA A OBRA COMEÇOU DIA 03/11/2025 E PAROU FAZ 27 DIAS SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Senhores, registro manifestação referente a consulta desmarcada. Nome Iago Monteiro . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Iago Monteiro"
+      }
+    ]
+  },
+  {
+    "text": "eai na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "Solicito informação sobre o andamento. O sistema caiu às 08h15 e voltou só perto de 09h40.",
+    "entities": []
+  },
+  {
+    "text": "AJUDA COBRARAM R$ 500,00 E O SERVIÇO FICOU PELA METADE SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO TA DANDO PROBLEMA COM PISTA ESBURACADA NOME JOÃO SOUZA ENDERECO SQS 112 BLOCO C APTO 401 AGORA",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "JOÃO SOUZA"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 112 BLOCO C APTO 401"
+      }
+    ]
+  },
+  {
+    "text": "Venho registrar questionamento. Protocolo 2023.456 aberto em 12/05/2024 e até agora está em análise.",
+    "entities": []
+  },
+  {
+    "text": "eai quero fazer reclamação do coleta não passou na minha quadra e tá virando rotina me chamo Tatiane Cavalcanti CPF 12137735557 fica em QNM 2 Conjunto B Casa 07 e-mail tatiane.cavalcanti@example.net tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Tatiane Cavalcanti"
+      },
+      {
+        "label": "CPF",
+        "value": "12137735557"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 2 Conjunto B Casa 07"
+      },
+      {
+        "label": "EMAIL",
+        "value": "tatiane.cavalcanti@example.net"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde quero registrar uma solicitação do secretaria não atende perto de casa e ninguém dá retorno meu nome eh Isabela Rodrigues telefone 61945123333 de verdade agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Isabela Rodrigues"
+      },
+      {
+        "label": "PHONE",
+        "value": "61945123333"
+      }
+    ]
+  },
+  {
+    "text": "bom dia meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status",
+    "entities": []
+  },
+  {
+    "text": "oi vim pra parabenizar o médico porque foi top aqui no bairro e tá perigoso sou Bianca Gomes CPF é 94582731530 na moral agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bianca Gomes"
+      },
+      {
+        "label": "CPF",
+        "value": "94582731530"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE TA DANDO PROBLEMA COM ILUMINAÇÃO APAGADA NOME RAFAEL GOMES ENDERECO SQN 405 BLOCO A APTO 303 RESOLVE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "RAFAEL GOMES"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 405 BLOCO A APTO 303"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde quero fazer uma denúncia do secretaria não atende aqui na minha rua e tá perigoso me chamo Vanessa Almeida me chama no 61961037777 sem condições agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Vanessa Almeida"
+      },
+      {
+        "label": "PHONE",
+        "value": "61961037777"
+      }
+    ]
+  },
+  {
+    "text": "À equipe responsável, registro manifestação referente a queimada perto. Nome Rodrigo Dias . CPF 325.789.215-25 . Endereço SQN 202 Bloco D Apto 501 . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Rodrigo Dias"
+      },
+      {
+        "label": "CPF",
+        "value": "325.789.215-25"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 202 Bloco D Apto 501"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero registrar reclamação do terminal abandonado aqui na minha rua e tá virando rotina sou Eduardo Rezende fica em Rua 10 Lote 13 Planaltina DF na moral vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Eduardo Rezende"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 10 Lote 13 Planaltina DF"
+      }
+    ]
+  },
+  {
+    "text": "olá vim pra elogiar a enfermeira porque foi top na minha quadra e tá perigoso meu nome eh Bianca Vieira CPF 938.491.049-04 na moral obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bianca Vieira"
+      },
+      {
+        "label": "CPF",
+        "value": "938.491.049-04"
+      }
+    ]
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM SOM ALTO DE MADRUGADA NOME BRUNO MOURA PEREIRA ENDERECO RUA 18 LOTE 26 SANTA MARIA DF HOJE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "BRUNO MOURA PEREIRA"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "RUA 18 LOTE 26 SANTA MARIA DF"
+      }
+    ]
+  },
+  {
+    "text": "oi o sistema caiu às 08h15 e voltou só perto de 09h40 tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "eai o ônibus 0.400 passou lotado três vezes seguidas tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO QUERO ELOGIAR MAS TAMBÉM QUERO REGISTRAR ATENDIMENTO FOI EXCELENTE NOME EDUARDO GOMES CPF 52730107488 TEL 61 99494-6666 RESOLVE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "EDUARDO GOMES"
+      },
+      {
+        "label": "CPF",
+        "value": "52730107488"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 99494-6666"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE O SISTEMA CAIU ÀS 08H15 E VOLTOU SÓ PERTO DE 09H40 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Senhores, registro manifestação referente a buraco na via. Nome Letícia Gomes Silva . Telefone 61977508888 . E-mail leticia.gomes.silva63@example.net . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Letícia Gomes Silva"
+      },
+      {
+        "label": "PHONE",
+        "value": "61977508888"
+      },
+      {
+        "label": "EMAIL",
+        "value": "leticia.gomes.silva63@example.net"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE TA DANDO PROBLEMA COM CADASTRO TRAVADO NOME BIANCA CORREIA ENDERECO SQS 404 BLOCO C APTO 203 HOJE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "BIANCA CORREIA"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 404 BLOCO C APTO 203"
+      }
+    ]
+  },
+  {
+    "text": "Venho registrar questionamento. Meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status.",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO TA DANDO PROBLEMA COM VIZINHO BARULHENTO NOME LARISSA ALMEIDA PEREIRA TEL 61942528888 EMAIL larissa.almeida.pereira588@example.org PELO AMOR",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "LARISSA ALMEIDA PEREIRA"
+      },
+      {
+        "label": "PHONE",
+        "value": "61942528888"
+      },
+      {
+        "label": "EMAIL",
+        "value": "larissa.almeida.pereira588@example.org"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero fazer uma solicitação do falta de iluminação aqui na minha rua e tá perigoso meu nome eh Carla Ferreira Martins CPF é 292.584.353-07 na moral obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Carla Ferreira Martins"
+      },
+      {
+        "label": "CPF",
+        "value": "292.584.353-07"
+      }
+    ]
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM ESCOLA SEM ÁGUA NOME EDUARDO MOURA ALMEIDA TEL (61) 98467-6666 EMAIL eduardo.moura.almeida@example.org AGORA",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "EDUARDO MOURA ALMEIDA"
+      },
+      {
+        "label": "PHONE",
+        "value": "(61) 98467-6666"
+      },
+      {
+        "label": "EMAIL",
+        "value": "eduardo.moura.almeida@example.org"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero registrar uma denúncia do lixeira transbordando aqui na minha rua e ninguém resolve meu nome eh Marcos Oliveira Freitas me chama no 61981625555 tá osso obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Marcos Oliveira Freitas"
+      },
+      {
+        "label": "PHONE",
+        "value": "61981625555"
+      }
+    ]
+  },
+  {
+    "text": "oi o sistema caiu às 08h15 e voltou só perto de 09h40 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "oi o site dá erro 504 desde ontem e ninguém avisa nada pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. A obra começou dia 03/11/2025 e parou faz 27 dias.",
+    "entities": []
+  },
+  {
+    "text": "Requeiro atualização do status. A obra começou dia 03/11/2025 e parou faz 27 dias.",
+    "entities": []
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a asfalto todo quebrado. Nome Leonardo Ferreira Campos . CPF 837.347.478-14 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Leonardo Ferreira Campos"
+      },
+      {
+        "label": "CPF",
+        "value": "837.347.478-14"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE COBRARAM R$ 500,00 E O SERVIÇO FICOU PELA METADE SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. Protocolo 2023.456 aberto em 12/05/2024 e até agora está em análise.",
+    "entities": []
+  },
+  {
+    "text": "boa tarde na fila tinha 42 pessoas e o painel ficou travado em 19",
+    "entities": []
+  },
+  {
+    "text": "bom dia na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "boa tarde o site dá erro 504 desde ontem e ninguém avisa nada tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "PRECISO AGORA TA DANDO PROBLEMA COM LIXO ACUMULADO NOME FÁBIO FERREIRA CPF 58561873185 TEL 987103333 RESOLVE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "FÁBIO FERREIRA"
+      },
+      {
+        "label": "CPF",
+        "value": "58561873185"
+      },
+      {
+        "label": "PHONE",
+        "value": "987103333"
+      }
+    ]
+  },
+  {
+    "text": "Requeiro atualização do status. Meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status.",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO TA DANDO PROBLEMA COM ÔNIBUS LOTADO NOME LETÍCIA CARVALHO MONTEIRO CPF 59648083106 TEL 922853333 SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "LETÍCIA CARVALHO MONTEIRO"
+      },
+      {
+        "label": "CPF",
+        "value": "59648083106"
+      },
+      {
+        "label": "PHONE",
+        "value": "922853333"
+      }
+    ]
+  },
+  {
+    "text": "olá quero fazer reclamação do buzina e gritaria perto de casa e tá perigoso sou Pedro Ferreira meu CPF é 42754524536 fica em QI 13 Conjunto A Lote 04 email pedro_ferreira283@example.com sem condições obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Pedro Ferreira"
+      },
+      {
+        "label": "CPF",
+        "value": "42754524536"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 13 Conjunto A Lote 04"
+      },
+      {
+        "label": "EMAIL",
+        "value": "pedro_ferreira283@example.com"
+      }
+    ]
+  },
+  {
+    "text": "eai na fila tinha 42 pessoas e o painel ficou travado em 19",
+    "entities": []
+  },
+  {
+    "text": "Prezados, registro manifestação referente a erro no portal. Nome Mariana Freitas . Telefone (61) 97042-2222 . E-mail mariana.freitas298@example.com . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mariana Freitas"
+      },
+      {
+        "label": "PHONE",
+        "value": "(61) 97042-2222"
+      },
+      {
+        "label": "EMAIL",
+        "value": "mariana.freitas298@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Requeiro atualização do status. O sistema caiu às 08h15 e voltou só perto de 09h40.",
+    "entities": []
+  },
+  {
+    "text": "eai a obra começou dia 03/11/2025 e parou faz 27 dias pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "Solicito informação sobre o andamento. Fui na unidade às 14h e a senha era 137 mas chamaram só até a 98.",
+    "entities": []
+  },
+  {
+    "text": "Senhores, registro manifestação referente a motorista mal educado. Nome Érica Campos . CPF 24999262011 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Érica Campos"
+      },
+      {
+        "label": "CPF",
+        "value": "24999262011"
+      }
+    ]
+  },
+  {
+    "text": "Venho registrar questionamento. O ônibus 0.400 passou lotado três vezes seguidas.",
+    "entities": []
+  },
+  {
+    "text": "oi o sistema caiu às 08h15 e voltou só perto de 09h40 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "boa tarde protocolo 2023.456 aberto em 12/05/2024 e até agora está em análise",
+    "entities": []
+  },
+  {
+    "text": "boa noite quero registrar um pedido do sistema fora do ar perto de casa e tá virando rotina sou Lívia Martins moro em Rua 21 Lote 1 Guará DF pra contato 61968353333 sem condições vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Lívia Martins"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 21 Lote 1 Guará DF"
+      },
+      {
+        "label": "PHONE",
+        "value": "61968353333"
+      }
+    ]
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. Meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status.",
+    "entities": []
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM FALTA DE REMÉDIO NOME EDUARDA GOMES ENDERECO QI 9 CONJUNTO B LOTE 30 EMAIL eduarda.gomes48@example.net RESOLVE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "EDUARDA GOMES"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 9 CONJUNTO B LOTE 30"
+      },
+      {
+        "label": "EMAIL",
+        "value": "eduarda.gomes48@example.net"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA TA DANDO PROBLEMA COM ILUMINAÇÃO APAGADA NOME IGOR LIMA TEL (61) 95145-4444 EMAIL igor_lima@example.org SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "IGOR LIMA"
+      },
+      {
+        "label": "PHONE",
+        "value": "(61) 95145-4444"
+      },
+      {
+        "label": "EMAIL",
+        "value": "igor_lima@example.org"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero fazer uma solicitação do erro no portal aqui no bairro e só piora sou Bruna Pereira whats 990306666 tô na luta aqui obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bruna Pereira"
+      },
+      {
+        "label": "PHONE",
+        "value": "990306666"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero registrar um pedido do atendimento demorou aqui no bairro e ninguém resolve me chamo Vinícius Vieira Santos CPF é 51814433890 moro em SQS 306 Bloco A Apto 403 na moral obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Vinícius Vieira Santos"
+      },
+      {
+        "label": "CPF",
+        "value": "51814433890"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 306 Bloco A Apto 403"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a jogada de lixo em área verde. Nome Tatiane Ribeiro . Telefone 61925053333 . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Tatiane Ribeiro"
+      },
+      {
+        "label": "PHONE",
+        "value": "61925053333"
+      }
+    ]
+  },
+  {
+    "text": "PRECISO AGORA TA DANDO PROBLEMA COM NÃO CONSIGO EMITIR GUIA NOME TIAGO SOUZA EMAIL tiago.souza253@example.net HOJE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "TIAGO SOUZA"
+      },
+      {
+        "label": "EMAIL",
+        "value": "tiago.souza253@example.net"
+      }
+    ]
+  },
+  {
+    "text": "oi a placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59 tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "URGENTE TA DANDO PROBLEMA COM RUA ESCURA NOME DANIEL MARTINS RESOLVE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "DANIEL MARTINS"
+      }
+    ]
+  },
+  {
+    "text": "SOCORRO NA FILA TINHA 42 PESSOAS E O PAINEL FICOU TRAVADO EM 19 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Solicito informação sobre o andamento. A obra começou dia 03/11/2025 e parou faz 27 dias.",
+    "entities": []
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a queimada perto. Nome Lívia Moura . CPF 10528197106 . Endereço QI 22 Conjunto E Lote 33 . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Lívia Moura"
+      },
+      {
+        "label": "CPF",
+        "value": "10528197106"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 22 Conjunto E Lote 33"
+      }
+    ]
+  },
+  {
+    "text": "Solicito informação sobre o andamento. O ônibus 0.400 passou lotado três vezes seguidas.",
+    "entities": []
+  },
+  {
+    "text": "boa noite quero registrar reclamação do ônibus lotado aqui no bairro e só piora sou Bianca Silva CPF 10202902009 tá osso agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bianca Silva"
+      },
+      {
+        "label": "CPF",
+        "value": "10202902009"
+      }
+    ]
+  },
+  {
+    "text": "oi meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status",
+    "entities": []
+  },
+  {
+    "text": "olá quero registrar uma denúncia do consulta desmarcada aqui no bairro e só piora sou Bianca Almeida CPF 926.923.380-41 manda no bianca.almeida556@example.com tô na luta aqui valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bianca Almeida"
+      },
+      {
+        "label": "CPF",
+        "value": "926.923.380-41"
+      },
+      {
+        "label": "EMAIL",
+        "value": "bianca.almeida556@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. A placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59.",
+    "entities": []
+  },
+  {
+    "text": "AJUDA O SISTEMA CAIU ÀS 08H15 E VOLTOU SÓ PERTO DE 09H40 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Senhores, registro manifestação referente a lixeira transbordando. Nome Natália Souza . E-mail natalia_souza27@example.com . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Natália Souza"
+      },
+      {
+        "label": "EMAIL",
+        "value": "natalia_souza27@example.com"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde quero fazer reclamação do secretaria não atende na região e tá virando rotina me chamo Mônica Moura fica em SQS 312 Bloco D Apto 202 manda no monica_moura184@example.org tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mônica Moura"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 312 Bloco D Apto 202"
+      },
+      {
+        "label": "EMAIL",
+        "value": "monica_moura184@example.org"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero fazer um pedido do queimada perto perto de casa e ninguém resolve meu nome eh Lucas Moura Correia email lucas.moura.correia@example.org na moral obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Lucas Moura Correia"
+      },
+      {
+        "label": "EMAIL",
+        "value": "lucas.moura.correia@example.org"
+      }
+    ]
+  },
+  {
+    "text": "Venho registrar questionamento. Fui na unidade às 14h e a senha era 137 mas chamaram só até a 98.",
+    "entities": []
+  },
+  {
+    "text": "Venho registrar questionamento. Cobraram R$ 500,00 e o serviço ficou pela metade.",
+    "entities": []
+  },
+  {
+    "text": "eai a placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "olá quero fazer reclamação do lâmpada queimada aqui na minha rua e só piora sou Mônica Campos fica em SQN 316 Bloco B Apto 302 telefone 61 91945-8888 tô na luta aqui valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mônica Campos"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 316 Bloco B Apto 302"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 91945-8888"
+      }
+    ]
+  },
+  {
+    "text": "oi quero fazer uma solicitação do obra irregular na minha quadra e tá virando rotina sou Eduardo Freitas CPF 88795505602 whats 94054-9999 por favor agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Eduardo Freitas"
+      },
+      {
+        "label": "CPF",
+        "value": "88795505602"
+      },
+      {
+        "label": "PHONE",
+        "value": "94054-9999"
+      }
+    ]
+  },
+  {
+    "text": "bom dia a placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO MEU CHAMADO 2026-001234 FOI REGISTRADO EM 27/01/2026 E NÃO MUDOU DE STATUS SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "oi quero registrar uma denúncia do erro no portal perto de casa e ninguém resolve meu nome eh Érica Silva whats 929232222 de verdade obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Érica Silva"
+      },
+      {
+        "label": "PHONE",
+        "value": "929232222"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a fila gigante na UBS. Nome Fábio Rodrigues Rezende . Telefone 61991341111 . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Fábio Rodrigues Rezende"
+      },
+      {
+        "label": "PHONE",
+        "value": "61991341111"
+      }
+    ]
+  },
+  {
+    "text": "oi quero registrar reclamação do coleta não passou aqui no bairro e tá perigoso meu nome eh Sabrina Rodrigues Teixeira meu CPF é 782.137.517-98 telefone 928495555 de verdade agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Sabrina Rodrigues Teixeira"
+      },
+      {
+        "label": "CPF",
+        "value": "782.137.517-98"
+      },
+      {
+        "label": "PHONE",
+        "value": "928495555"
+      }
+    ]
+  },
+  {
+    "text": "eai quero registrar uma denúncia do buraco na via aqui no bairro e ninguém resolve me chamo Paulo Dias pra contato 61934557777 de verdade obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Paulo Dias"
+      },
+      {
+        "label": "PHONE",
+        "value": "61934557777"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero fazer reclamação do buraco na via aqui no bairro e tá virando rotina sou Bruna Gomes fica em Setor Comercial Norte Quadra 12 Bloco A tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bruna Gomes"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Setor Comercial Norte Quadra 12 Bloco A"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA QUERO ELOGIAR MAS TAMBÉM QUERO REGISTRAR ELOGIO AO ATENDIMENTO NOME TATIANE RODRIGUES PELO AMOR",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "TATIANE RODRIGUES"
+      }
+    ]
+  },
+  {
+    "text": "oi quero registrar uma denúncia do estacionamento em calçada na minha quadra e só piora meu nome eh Igor Silva me chama no 61 94688-2222 por favor obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Igor Silva"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 94688-2222"
+      }
+    ]
+  },
+  {
+    "text": "eai a obra começou dia 03/11/2025 e parou faz 27 dias tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. Na fila tinha 42 pessoas e o painel ficou travado em 19.",
+    "entities": []
+  },
+  {
+    "text": "boa tarde quero fazer uma solicitação do muito entulho aqui no bairro e ninguém resolve meu nome eh Vanessa Santos tá osso obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Vanessa Santos"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a lixo acumulado. Nome Hugo Campos . E-mail hugo_campos@example.net . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Hugo Campos"
+      },
+      {
+        "label": "EMAIL",
+        "value": "hugo_campos@example.net"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO TA DANDO PROBLEMA COM TERMINAL ABANDONADO NOME RAFAEL CAMPOS TEL 94782-3333 EMAIL rafael.campos@example.net PELO AMOR",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "RAFAEL CAMPOS"
+      },
+      {
+        "label": "PHONE",
+        "value": "94782-3333"
+      },
+      {
+        "label": "EMAIL",
+        "value": "rafael.campos@example.net"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a pista esburacada. Nome William Araújo . Endereço Rua 27 Lote 1 Samambaia DF . E-mail william.araujo669@example.com . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "William Araújo"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 27 Lote 1 Samambaia DF"
+      },
+      {
+        "label": "EMAIL",
+        "value": "william.araujo669@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Solicito informação sobre o andamento. Protocolo 2023.456 aberto em 12/05/2024 e até agora está em análise.",
+    "entities": []
+  },
+  {
+    "text": "boa tarde quero fazer uma denúncia do queimada perto aqui na minha rua e tá perigoso meu nome eh Bruno Araújo meu CPF é 482.109.909-81 me chama no 61965142222 e-mail bruno.araujo885@example.com tô na luta aqui obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bruno Araújo"
+      },
+      {
+        "label": "CPF",
+        "value": "482.109.909-81"
+      },
+      {
+        "label": "PHONE",
+        "value": "61965142222"
+      },
+      {
+        "label": "EMAIL",
+        "value": "bruno.araujo885@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Requeiro atualização do status. O site dá erro 504 desde ontem e ninguém avisa nada.",
+    "entities": []
+  },
+  {
+    "text": "olá quero fazer uma solicitação do festa sem fim aqui na minha rua e tá virando rotina sou Igor Monteiro Cavalcanti CPF 216.675.083-45 e-mail igor_monteiro_cavalcanti@example.org tô na luta aqui obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Igor Monteiro Cavalcanti"
+      },
+      {
+        "label": "CPF",
+        "value": "216.675.083-45"
+      },
+      {
+        "label": "EMAIL",
+        "value": "igor_monteiro_cavalcanti@example.org"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA MEU CHAMADO 2026-001234 FOI REGISTRADO EM 27/01/2026 E NÃO MUDOU DE STATUS SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO O ÔNIBUS 0.400 PASSOU LOTADO TRÊS VEZES SEGUIDAS SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "boa tarde o sistema caiu às 08h15 e voltou só perto de 09h40 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "eai quero fazer um pedido do motorista mal educado na região e ninguém dá retorno meu nome eh Gabriela Cavalcanti Cardoso email gabriela.cavalcanti.cardoso391@example.net sem condições vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Gabriela Cavalcanti Cardoso"
+      },
+      {
+        "label": "EMAIL",
+        "value": "gabriela.cavalcanti.cardoso391@example.net"
+      }
+    ]
+  },
+  {
+    "text": "Senhores, registro manifestação referente a fila gigante na UBS. Nome Letícia Teixeira Lima . CPF 539.927.794-87 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Letícia Teixeira Lima"
+      },
+      {
+        "label": "CPF",
+        "value": "539.927.794-87"
+      }
+    ]
+  },
+  {
+    "text": "olá quero fazer um pedido do banheiro quebrado perto de casa e ninguém resolve meu nome eh André Vieira e-mail andre_vieira@example.org de verdade obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "André Vieira"
+      },
+      {
+        "label": "EMAIL",
+        "value": "andre_vieira@example.org"
+      }
+    ]
+  },
+  {
+    "text": "bom dia o sistema caiu às 08h15 e voltou só perto de 09h40",
+    "entities": []
+  },
+  {
+    "text": "PRECISO AGORA TA DANDO PROBLEMA COM MERENDA RUIM NOME YASMIN CAVALCANTI ENDERECO SETOR COMERCIAL NORTE QUADRA 11 BLOCO C EMAIL yasmin.cavalcanti@example.net HOJE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "YASMIN CAVALCANTI"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SETOR COMERCIAL NORTE QUADRA 11 BLOCO C"
+      },
+      {
+        "label": "EMAIL",
+        "value": "yasmin.cavalcanti@example.net"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero fazer uma solicitação do fila gigante na UBS na minha quadra e ninguém dá retorno sou Bruna Nascimento telefone 61949914444 tô na luta aqui valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bruna Nascimento"
+      },
+      {
+        "label": "PHONE",
+        "value": "61949914444"
+      }
+    ]
+  },
+  {
+    "text": "SOCORRO TA DANDO PROBLEMA COM LIXEIRA TRANSBORDANDO NOME BRUNA NASCIMENTO EMAIL bruna_nascimento@example.org SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "BRUNA NASCIMENTO"
+      },
+      {
+        "label": "EMAIL",
+        "value": "bruna_nascimento@example.org"
+      }
+    ]
+  },
+  {
+    "text": "Senhores, registro manifestação referente a buzina e gritaria. Nome Nicolas Nascimento Freitas . Endereço Rua 12 Lote 72 Ceilândia DF . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Nicolas Nascimento Freitas"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 12 Lote 72 Ceilândia DF"
+      }
+    ]
+  },
+  {
+    "text": "eai o ônibus 0.400 passou lotado três vezes seguidas",
+    "entities": []
+  },
+  {
+    "text": "olá quero registrar uma solicitação do consulta desmarcada na região e só piora sou Paula Silva email paula.silva@example.org na moral valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Paula Silva"
+      },
+      {
+        "label": "EMAIL",
+        "value": "paula.silva@example.org"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA FUI NA UNIDADE ÀS 14H E A SENHA ERA 137 MAS CHAMARAM SÓ ATÉ A 98 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a escola sem água. Nome Mateus Souza . Endereço QNM 39 Conjunto C Casa 18 . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mateus Souza"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 39 Conjunto C Casa 18"
+      }
+    ]
+  },
+  {
+    "text": "Requeiro atualização do status. Cobraram R$ 500,00 e o serviço ficou pela metade.",
+    "entities": []
+  },
+  {
+    "text": "Solicito informação sobre o andamento. O site dá erro 504 desde ontem e ninguém avisa nada.",
+    "entities": []
+  },
+  {
+    "text": "eai quero fazer uma solicitação do secretaria não atende na minha quadra e ninguém resolve meu nome eh Natália Rezende Rodrigues meu CPF é 125.317.674-47 me chama no 61938940000 na moral vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Natália Rezende Rodrigues"
+      },
+      {
+        "label": "CPF",
+        "value": "125.317.674-47"
+      },
+      {
+        "label": "PHONE",
+        "value": "61938940000"
+      }
+    ]
+  },
+  {
+    "text": "PRECISO AGORA TA DANDO PROBLEMA COM LINHA ATRASANDO NOME EDUARDA MELO EMAIL eduarda_melo602@example.com PELO AMOR",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "EDUARDA MELO"
+      },
+      {
+        "label": "EMAIL",
+        "value": "eduarda_melo602@example.com"
+      }
+    ]
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM PRECISO ATUALIZAR CADASTRO NOME FELIPE NASCIMENTO TEL 95624-4444 EMAIL felipe.nascimento@example.org RESOLVE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "FELIPE NASCIMENTO"
+      },
+      {
+        "label": "PHONE",
+        "value": "95624-4444"
+      },
+      {
+        "label": "EMAIL",
+        "value": "felipe.nascimento@example.org"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE NA FILA TINHA 42 PESSOAS E O PAINEL FICOU TRAVADO EM 19 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "eai quero fazer reclamação do terminal abandonado perto de casa e tá perigoso me chamo Rafael Monteiro whats 98568-1111 manda no rafael_monteiro724@example.net por favor vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Rafael Monteiro"
+      },
+      {
+        "label": "PHONE",
+        "value": "98568-1111"
+      },
+      {
+        "label": "EMAIL",
+        "value": "rafael_monteiro724@example.net"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde quero registrar um pedido do falta de iluminação aqui na minha rua e ninguém dá retorno me chamo Renata Ribeiro moro em QNM 13 Conjunto A Casa 38 e-mail renata.ribeiro@example.com sem condições obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Renata Ribeiro"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 13 Conjunto A Casa 38"
+      },
+      {
+        "label": "EMAIL",
+        "value": "renata.ribeiro@example.com"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde quero fazer uma solicitação do não consigo emitir guia na região e ninguém resolve meu nome eh Rafael Costa Ribeiro email rafael.costa.ribeiro227@example.net na moral agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Rafael Costa Ribeiro"
+      },
+      {
+        "label": "EMAIL",
+        "value": "rafael.costa.ribeiro227@example.net"
+      }
+    ]
+  },
+  {
+    "text": "À equipe responsável, registro manifestação referente a sistema fora do ar. Nome André Carvalho . CPF 51005640080 . E-mail andre_carvalho@example.com . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "André Carvalho"
+      },
+      {
+        "label": "CPF",
+        "value": "51005640080"
+      },
+      {
+        "label": "EMAIL",
+        "value": "andre_carvalho@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a estacionamento em calçada. Nome Igor Silva Almeida . E-mail igor.silva.almeida521@example.com . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Igor Silva Almeida"
+      },
+      {
+        "label": "EMAIL",
+        "value": "igor.silva.almeida521@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a sistema fora do ar. Nome Nicolas Barbosa Nascimento . Telefone 61 937049999 . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Nicolas Barbosa Nascimento"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 937049999"
+      }
+    ]
+  },
+  {
+    "text": "oi quero fazer uma solicitação do lixeira transbordando aqui na minha rua e tá perigoso me chamo Diego Costa manda no diego.costa@example.com tá osso valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Diego Costa"
+      },
+      {
+        "label": "EMAIL",
+        "value": "diego.costa@example.com"
+      }
+    ]
+  },
+  {
+    "text": "oi quero fazer reclamação do lixeira transbordando aqui na minha rua e tá virando rotina sou Eduardo Almeida sem condições vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Eduardo Almeida"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE A PLACA DO AVISO DIZ MANUTENÇÃO DIA 28/01/2026 DAS 22H ÀS 23H59 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "Requeiro atualização do status. O ônibus 0.400 passou lotado três vezes seguidas.",
+    "entities": []
+  },
+  {
+    "text": "URGENTE PROTOCOLO 2023.456 ABERTO EM 12/05/2024 E ATÉ AGORA ESTÁ EM ANÁLISE SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "eai a placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59",
+    "entities": []
+  },
+  {
+    "text": "eai quero registrar um pedido do escola sem água aqui no bairro e ninguém resolve sou João Barbosa fica em SQN 204 Bloco A Apto 201 na moral obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "João Barbosa"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 204 Bloco A Apto 201"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a sistema fora do ar. Nome Rodrigo Almeida . E-mail rodrigo.almeida26@example.com . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Rodrigo Almeida"
+      },
+      {
+        "label": "EMAIL",
+        "value": "rodrigo.almeida26@example.com"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a poste sem luz. Nome Felipe Rodrigues Campos . CPF 28683998864 . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Felipe Rodrigues Campos"
+      },
+      {
+        "label": "CPF",
+        "value": "28683998864"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA A PLACA DO AVISO DIZ MANUTENÇÃO DIA 28/01/2026 DAS 22H ÀS 23H59 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "eai vim para parabenizar a equipe porque foi top aqui na minha rua e ninguém resolve sou Tiago Cardoso endereço Setor Comercial Sul Quadra 1 Bloco B tá osso obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Tiago Cardoso"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Setor Comercial Sul Quadra 1 Bloco B"
+      }
+    ]
+  },
+  {
+    "text": "oi na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "boa noite quero fazer uma denúncia do erro no portal aqui na minha rua e ninguém resolve meu nome eh Mateus Correia Santos meu CPF é 213.512.320-09 tá osso agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mateus Correia Santos"
+      },
+      {
+        "label": "CPF",
+        "value": "213.512.320-09"
+      }
+    ]
+  },
+  {
+    "text": "olá vim pra elogiar a equipe porque foi top aqui na minha rua e tá virando rotina me chamo Marcos Souza na moral valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Marcos Souza"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA QUERO ELOGIAR MAS TAMBÉM QUERO REGISTRAR AGRADECER A ENFERMEIRA NOME TATIANE ALMEIDA MELO TEL 61 933775555 EMAIL tatiane_almeida_melo187@example.com AGORA",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "TATIANE ALMEIDA MELO"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 933775555"
+      },
+      {
+        "label": "EMAIL",
+        "value": "tatiane_almeida_melo187@example.com"
+      }
+    ]
+  },
+  {
+    "text": "oi quero registrar reclamação do preciso atualizar cadastro aqui no bairro e tá virando rotina me chamo Fernanda Martins Barbosa email fernanda.martins.barbosa@example.com tô na luta aqui agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Fernanda Martins Barbosa"
+      },
+      {
+        "label": "EMAIL",
+        "value": "fernanda.martins.barbosa@example.com"
+      }
+    ]
+  },
+  {
+    "text": "bom dia na fila tinha 42 pessoas e o painel ficou travado em 19 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "boa tarde o site dá erro 504 desde ontem e ninguém avisa nada",
+    "entities": []
+  },
+  {
+    "text": "Venho por meio desta, registro elogio ao atendimento prestado elogiar o médico. Nome Rafael Ribeiro . E-mail rafael.ribeiro@example.net . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Rafael Ribeiro"
+      },
+      {
+        "label": "EMAIL",
+        "value": "rafael.ribeiro@example.net"
+      }
+    ]
+  },
+  {
+    "text": "bom dia a obra começou dia 03/11/2025 e parou faz 27 dias tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "bom dia quero registrar uma solicitação do sistema fora do ar aqui na minha rua e tá virando rotina meu nome eh Juliana Correia Nascimento CPF é 49788447892 na moral vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Juliana Correia Nascimento"
+      },
+      {
+        "label": "CPF",
+        "value": "49788447892"
+      }
+    ]
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. Fui na unidade às 14h e a senha era 137 mas chamaram só até a 98.",
+    "entities": []
+  },
+  {
+    "text": "bom dia quero fazer um pedido do banheiro quebrado aqui na minha rua e tá virando rotina sou Patrícia Monteiro CPF 780.424.770-25 tá osso vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Patrícia Monteiro"
+      },
+      {
+        "label": "CPF",
+        "value": "780.424.770-25"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a estacionamento em calçada. Nome Patrícia Souza . Telefone 61 969059999 . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Patrícia Souza"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 969059999"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde quero registrar uma solicitação do parada sem cobertura na região e tá virando rotina me chamo Marcos Barbosa Rodrigues fica em Setor Sul Quadra 6 Bloco B telefone 98442-6666 sem condições obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Marcos Barbosa Rodrigues"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Setor Sul Quadra 6 Bloco B"
+      },
+      {
+        "label": "PHONE",
+        "value": "98442-6666"
+      }
+    ]
+  },
+  {
+    "text": "olá quero registrar reclamação do parada sem cobertura perto de casa e tá perigoso sou Vanessa Almeida Silva CPF é 918.231.879-46 tá osso obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Vanessa Almeida Silva"
+      },
+      {
+        "label": "CPF",
+        "value": "918.231.879-46"
+      }
+    ]
+  },
+  {
+    "text": "Venho por meio desta, registro elogio ao atendimento prestado atendimento foi excelente. Nome Carla Lima Nascimento . E-mail carla.lima.nascimento886@example.com . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Carla Lima Nascimento"
+      },
+      {
+        "label": "EMAIL",
+        "value": "carla.lima.nascimento886@example.com"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero registrar uma solicitação do rua escura aqui na minha rua e tá virando rotina me chamo Juliana Lima email juliana.lima69@example.net na moral valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Juliana Lima"
+      },
+      {
+        "label": "EMAIL",
+        "value": "juliana.lima69@example.net"
+      }
+    ]
+  },
+  {
+    "text": "bom dia quero fazer um pedido do erro no portal perto de casa e ninguém resolve meu nome eh Fábio Lima telefone 61910036666 tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Fábio Lima"
+      },
+      {
+        "label": "PHONE",
+        "value": "61910036666"
+      }
+    ]
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a atendimento demorou. Nome Fernanda Costa . Telefone (61) 98046-8888 . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Fernanda Costa"
+      },
+      {
+        "label": "PHONE",
+        "value": "(61) 98046-8888"
+      }
+    ]
+  },
+  {
+    "text": "Solicito informação sobre o andamento. A placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59.",
+    "entities": []
+  },
+  {
+    "text": "eai quero fazer reclamação do bagunça todo dia na região e só piora meu nome eh Paula Nascimento Cavalcanti na moral obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Paula Nascimento Cavalcanti"
+      }
+    ]
+  },
+  {
+    "text": "oi na fila tinha 42 pessoas e o painel ficou travado em 19",
+    "entities": []
+  },
+  {
+    "text": "boa noite quero fazer um pedido do cachorro solto atacando na minha quadra e ninguém dá retorno meu nome eh Daniel Silva telefone (61) 96473-2222 manda no daniel.silva@example.com na moral valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Daniel Silva"
+      },
+      {
+        "label": "PHONE",
+        "value": "(61) 96473-2222"
+      },
+      {
+        "label": "EMAIL",
+        "value": "daniel.silva@example.com"
+      }
+    ]
+  },
+  {
+    "text": "AJUDA NA FILA TINHA 42 PESSOAS E O PAINEL FICOU TRAVADO EM 19 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "SOCORRO COBRARAM R$ 500,00 E O SERVIÇO FICOU PELA METADE SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "olá quero fazer reclamação do ônibus lotado aqui na minha rua e tá virando rotina me chamo Débora Monteiro pra contato 919574444 email debora_monteiro749@example.org na moral vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Débora Monteiro"
+      },
+      {
+        "label": "PHONE",
+        "value": "919574444"
+      },
+      {
+        "label": "EMAIL",
+        "value": "debora_monteiro749@example.org"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde o ônibus 0.400 passou lotado três vezes seguidas pq ninguém responde",
+    "entities": []
+  },
+  {
+    "text": "boa noite quero registrar uma solicitação do cadastro travado aqui no bairro e ninguém dá retorno sou Felipe Lima e-mail felipe_lima382@example.org na moral vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Felipe Lima"
+      },
+      {
+        "label": "EMAIL",
+        "value": "felipe_lima382@example.org"
+      }
+    ]
+  },
+  {
+    "text": "SOCORRO A PLACA DO AVISO DIZ MANUTENÇÃO DIA 28/01/2026 DAS 22H ÀS 23H59 SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "olá quero registrar um pedido do pista esburacada na minha quadra e tá perigoso me chamo Bruna Ferreira Moura meu CPF é 262.151.131-72 endereço SQN 405 Bloco A Apto 301 tô na luta aqui agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bruna Ferreira Moura"
+      },
+      {
+        "label": "CPF",
+        "value": "262.151.131-72"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 405 Bloco A Apto 301"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a asfalto todo quebrado. Nome Larissa Almeida . E-mail larissa.almeida@example.com . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Larissa Almeida"
+      },
+      {
+        "label": "EMAIL",
+        "value": "larissa.almeida@example.com"
+      }
+    ]
+  },
+  {
+    "text": "eai vim para elogiar o atendimento porque foi top perto de casa e ninguém dá retorno me chamo Helena Teixeira CPF 141.274.275-73 moro em SQS 108 Bloco A Apto 201 tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Helena Teixeira"
+      },
+      {
+        "label": "CPF",
+        "value": "141.274.275-73"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQS 108 Bloco A Apto 201"
+      }
+    ]
+  },
+  {
+    "text": "oi quero registrar uma solicitação do banheiro quebrado perto de casa e tá virando rotina me chamo Felipe Melo meu CPF é 280.314.002-09 endereço QI 26 Conjunto D Lote 12 de verdade valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Felipe Melo"
+      },
+      {
+        "label": "CPF",
+        "value": "280.314.002-09"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 26 Conjunto D Lote 12"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a consulta desmarcada. Nome Eduardo Rezende . Telefone 990296666 . E-mail eduardo_rezende143@example.org . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Eduardo Rezende"
+      },
+      {
+        "label": "PHONE",
+        "value": "990296666"
+      },
+      {
+        "label": "EMAIL",
+        "value": "eduardo_rezende143@example.org"
+      }
+    ]
+  },
+  {
+    "text": "olá quero registrar uma solicitação do lixeira transbordando perto de casa e ninguém resolve meu nome eh André Ferreira Silva e-mail andre.ferreira.silva920@example.org de verdade vlw",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "André Ferreira Silva"
+      },
+      {
+        "label": "EMAIL",
+        "value": "andre.ferreira.silva920@example.org"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero registrar um pedido do muito entulho aqui na minha rua e tá virando rotina me chamo Gustavo Costa e-mail gustavo_costa867@example.org na moral obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Gustavo Costa"
+      },
+      {
+        "label": "EMAIL",
+        "value": "gustavo_costa867@example.org"
+      }
+    ]
+  },
+  {
+    "text": "Venho registrar questionamento. O site dá erro 504 desde ontem e ninguém avisa nada.",
+    "entities": []
+  },
+  {
+    "text": "Venho por meio desta, registro manifestação referente a cratera. Nome Carla Rodrigues . CPF 109.312.232-31 . Endereço QNM 9 Conjunto B Casa 14 . E-mail carla_rodrigues@example.org . Solicito providências e retorno pelos canais informados. Cordialmente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Carla Rodrigues"
+      },
+      {
+        "label": "CPF",
+        "value": "109.312.232-31"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 9 Conjunto B Casa 14"
+      },
+      {
+        "label": "EMAIL",
+        "value": "carla_rodrigues@example.org"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "PRECISO AGORA TA DANDO PROBLEMA COM FALTA DE ILUMINAÇÃO NOME MÔNICA CORREIA RIBEIRO ENDERECO QI 2 CONJUNTO D LOTE 09 AGORA",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "MÔNICA CORREIA RIBEIRO"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 2 CONJUNTO D LOTE 09"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde o ônibus 0.400 passou lotado três vezes seguidas",
+    "entities": []
+  },
+  {
+    "text": "bom dia quero fazer um pedido do jogada de lixo em área verde perto de casa e ninguém resolve sou Mateus Correia Rocha tô na luta aqui obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Mateus Correia Rocha"
+      }
+    ]
+  },
+  {
+    "text": "oi protocolo 2023.456 aberto em 12/05/2024 e até agora está em análise pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "Prezados, registro manifestação referente a falta de remédio. Nome Gabriel Martins . Telefone (61) 96805-4444 . E-mail gabriel.martins139@example.org . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Gabriel Martins"
+      },
+      {
+        "label": "PHONE",
+        "value": "(61) 96805-4444"
+      },
+      {
+        "label": "EMAIL",
+        "value": "gabriel.martins139@example.org"
+      }
+    ]
+  },
+  {
+    "text": "eai quero fazer uma solicitação do fila gigante na UBS na minha quadra e tá virando rotina sou Tiago Nascimento e-mail tiago_nascimento@example.org de verdade obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Tiago Nascimento"
+      },
+      {
+        "label": "EMAIL",
+        "value": "tiago_nascimento@example.org"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a cachorro solto atacando. Nome Diego Vieira Freitas . Endereço QNM 1 Conjunto E Casa 03 . Telefone 971515555 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Diego Vieira Freitas"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 1 Conjunto E Casa 03"
+      },
+      {
+        "label": "PHONE",
+        "value": "971515555"
+      }
+    ]
+  },
+  {
+    "text": "SOCORRO TA DANDO PROBLEMA COM RUA ESCURA NOME RENATA FERREIRA CAMPOS ENDERECO SQN 306 BLOCO B APTO 103 HOJE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "RENATA FERREIRA CAMPOS"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 306 BLOCO B APTO 103"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero registrar uma solicitação do escola sem água aqui na minha rua e ninguém dá retorno meu nome eh André Cardoso Melo CPF 089.251.924-08 whats 61 934293333 tô na luta aqui obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "André Cardoso Melo"
+      },
+      {
+        "label": "CPF",
+        "value": "089.251.924-08"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 934293333"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE TA DANDO PROBLEMA COM CACHORRO SOLTO ATACANDO NOME CAMILA LIMA CPF 135.729.327-52 AGORA",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "CAMILA LIMA"
+      },
+      {
+        "label": "CPF",
+        "value": "135.729.327-52"
+      }
+    ]
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. O site dá erro 504 desde ontem e ninguém avisa nada.",
+    "entities": []
+  },
+  {
+    "text": "Prezados, registro manifestação referente a fila gigante na UBS. Nome Sérgio Martins Araújo . CPF 06440643076 . Endereço QNM 14 Conjunto D Casa 38 . Solicito providências e retorno pelos canais informados. No aguardo",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Sérgio Martins Araújo"
+      },
+      {
+        "label": "CPF",
+        "value": "06440643076"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 14 Conjunto D Casa 38"
+      }
+    ]
+  },
+  {
+    "text": "eai meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status",
+    "entities": []
+  },
+  {
+    "text": "oi quero fazer reclamação do buraco na via na minha quadra e ninguém dá retorno me chamo Gustavo Costa CPF é 046.492.571-19 de verdade obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Gustavo Costa"
+      },
+      {
+        "label": "CPF",
+        "value": "046.492.571-19"
+      }
+    ]
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM JOGADA DE LIXO EM ÁREA VERDE NOME FÁBIO TEIXEIRA CPF 98484020129 TEL 61 91906-9999 SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "FÁBIO TEIXEIRA"
+      },
+      {
+        "label": "CPF",
+        "value": "98484020129"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 91906-9999"
+      }
+    ]
+  },
+  {
+    "text": "boa tarde o ônibus 0.400 passou lotado três vezes seguidas pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "Solicito informação sobre o andamento. Meu chamado 2026-001234 foi registrado em 27/01/2026 e não mudou de status.",
+    "entities": []
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE TA DANDO PROBLEMA COM FESTA SEM FIM NOME PATRÍCIA CAVALCANTI CPF 202.775.102-51 HOJE",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "PATRÍCIA CAVALCANTI"
+      },
+      {
+        "label": "CPF",
+        "value": "202.775.102-51"
+      }
+    ]
+  },
+  {
+    "text": "Prezados, registro manifestação referente a vizinho barulhento. Nome Vinícius Rodrigues . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Vinícius Rodrigues"
+      }
+    ]
+  },
+  {
+    "text": "Venho registrar questionamento. A placa do aviso diz manutenção dia 28/01/2026 das 22h às 23h59.",
+    "entities": []
+  },
+  {
+    "text": "olá quero fazer uma denúncia do escola sem água perto de casa e tá virando rotina sou Vinícius Dias Vieira pra contato 61 97435-0000 na moral obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Vinícius Dias Vieira"
+      },
+      {
+        "label": "PHONE",
+        "value": "61 97435-0000"
+      }
+    ]
+  },
+  {
+    "text": "Encaminho solicitação de esclarecimentos. Cobraram R$ 500,00 e o serviço ficou pela metade.",
+    "entities": []
+  },
+  {
+    "text": "boa tarde quero fazer uma solicitação do preciso atualizar cadastro aqui na minha rua e tá virando rotina me chamo Isabela Lima Ribeiro CPF é 34586726050 fica em QNM 20 Conjunto E Casa 15 de verdade obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Isabela Lima Ribeiro"
+      },
+      {
+        "label": "CPF",
+        "value": "34586726050"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QNM 20 Conjunto E Casa 15"
+      }
+    ]
+  },
+  {
+    "text": "eai o sistema caiu às 08h15 e voltou só perto de 09h40",
+    "entities": []
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a erro no portal. Nome Lívia Correia . Telefone 61989099999 . E-mail livia.correia@example.org . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Lívia Correia"
+      },
+      {
+        "label": "PHONE",
+        "value": "61989099999"
+      },
+      {
+        "label": "EMAIL",
+        "value": "livia.correia@example.org"
+      }
+    ]
+  },
+  {
+    "text": "olá quero fazer uma denúncia do merenda ruim na minha quadra e tá virando rotina sou Bianca Costa endereço Rua 7 Lote 74 Planaltina DF e-mail bianca.costa@example.net tô na luta aqui obrigada",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bianca Costa"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 7 Lote 74 Planaltina DF"
+      },
+      {
+        "label": "EMAIL",
+        "value": "bianca.costa@example.net"
+      }
+    ]
+  },
+  {
+    "text": "eai quero registrar uma solicitação do lâmpada queimada aqui no bairro e ninguém resolve meu nome eh Jéssica Campos Pereira me chama no 99544-4444 tô na luta aqui valeu",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Jéssica Campos Pereira"
+      },
+      {
+        "label": "PHONE",
+        "value": "99544-4444"
+      }
+    ]
+  },
+  {
+    "text": "Requeiro atualização do status. Na fila tinha 42 pessoas e o painel ficou travado em 19.",
+    "entities": []
+  },
+  {
+    "text": "olá quero fazer um pedido do rua escura na região e tá perigoso meu nome eh Carlos Dias meu CPF é 54755679134 na moral agradeço",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Carlos Dias"
+      },
+      {
+        "label": "CPF",
+        "value": "54755679134"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a escola sem água. Nome Tiago Ribeiro . CPF 556.548.581-91 . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Tiago Ribeiro"
+      },
+      {
+        "label": "CPF",
+        "value": "556.548.581-91"
+      }
+    ]
+  },
+  {
+    "text": "eai quero fazer um pedido do escola sem água aqui na minha rua e tá perigoso meu nome eh Iago Nascimento moro em QI 10 Conjunto A Lote 34 de verdade obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Iago Nascimento"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 10 Conjunto A Lote 34"
+      }
+    ]
+  },
+  {
+    "text": "À Ouvidoria, registro manifestação referente a linha atrasando. Nome Bianca Rocha . CPF 873.675.300-93 . Endereço SQN 105 Bloco B Apto 401 . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Bianca Rocha"
+      },
+      {
+        "label": "CPF",
+        "value": "873.675.300-93"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "SQN 105 Bloco B Apto 401"
+      }
+    ]
+  },
+  {
+    "text": "ALGUÉM ME RESPONDE QUERO ELOGIAR MAS TAMBÉM QUERO REGISTRAR ATENDIMENTO FOI EXCELENTE NOME GABRIEL ALMEIDA SILVA EMAIL gabriel_almeida_silva198@example.net SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "GABRIEL ALMEIDA SILVA"
+      },
+      {
+        "label": "EMAIL",
+        "value": "gabriel_almeida_silva198@example.net"
+      }
+    ]
+  },
+  {
+    "text": "URGENTE TA DANDO PROBLEMA COM FESTA SEM FIM NOME CAIO MONTEIRO RIBEIRO SEM ENROLAÇÃO",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "CAIO MONTEIRO RIBEIRO"
+      }
+    ]
+  },
+  {
+    "text": "À equipe responsável, registro manifestação referente a poste sem luz. Nome Yasmin Lima . CPF 100.083.753-09 . Solicito providências e retorno pelos canais informados. Atenciosamente",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Yasmin Lima"
+      },
+      {
+        "label": "CPF",
+        "value": "100.083.753-09"
+      }
+    ]
+  },
+  {
+    "text": "eai quero fazer um pedido do sistema fora do ar aqui na minha rua e só piora sou Igor Souza fica em Rua 15 Lote 39 Taguatinga DF e-mail igor_souza354@example.com na moral obg",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Igor Souza"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "Rua 15 Lote 39 Taguatinga DF"
+      },
+      {
+        "label": "EMAIL",
+        "value": "igor_souza354@example.com"
+      }
+    ]
+  },
+  {
+    "text": "boa noite quero registrar reclamação do poste sem luz perto de casa e tá perigoso me chamo Lívia Teixeira CPF 18583146312 moro em QI 17 Conjunto E Lote 25 telefone 980853333 na moral obrigado",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Lívia Teixeira"
+      },
+      {
+        "label": "CPF",
+        "value": "18583146312"
+      },
+      {
+        "label": "ADDRESS",
+        "value": "QI 17 Conjunto E Lote 25"
+      },
+      {
+        "label": "PHONE",
+        "value": "980853333"
+      }
+    ]
+  },
+  {
+    "text": "Solicito informação sobre o andamento. Cobraram R$ 500,00 e o serviço ficou pela metade.",
+    "entities": []
+  },
+  {
+    "text": "eai o sistema caiu às 08h15 e voltou só perto de 09h40 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "AJUDA PROTOCOLO 2023.456 ABERTO EM 12/05/2024 E ATÉ AGORA ESTÁ EM ANÁLISE SEM RESPOSTA",
+    "entities": []
+  },
+  {
+    "text": "boa tarde fui na unidade às 14h e a senha era 137 mas chamaram só até a 98 pq ninguém responde tá complicado demais",
+    "entities": []
+  },
+  {
+    "text": "Senhores, registro manifestação referente a ônibus lotado. Nome Leonardo Moura . E-mail leonardo.moura@example.org . Solicito providências e retorno pelos canais informados. Sem mais para o momento",
+    "entities": [
+      {
+        "label": "PERSON",
+        "value": "Leonardo Moura"
+      },
+      {
+        "label": "EMAIL",
+        "value": "leonardo.moura@example.org"
+      }
+    ]
+  }
+]
