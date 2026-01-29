@@ -22,6 +22,8 @@ A solução está organizada da seguinte forma:
 ├── data/
 │   ├── dados_treino_ner_250.json        # Dataset sintético (Treino)
 │   └── amostra_com_labels_1.csv         # Dataset real (Validação)
+├── assets/
+│    └──confusion_matrix.png             # Imagem da matriz de confusão
 ├── solucao_desafiodf.ipynb              # Notebook principal com todo o código
 ├── requirements.txt                     # Lista de dependências e versões
 ├── submission.csv                       # Arquivo de saída gerado pelo modelo
